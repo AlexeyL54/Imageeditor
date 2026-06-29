@@ -1,4 +1,3 @@
-// web/src/hooks/useWasm.ts
 import { useState, useEffect, useRef } from 'react';
 
 export function useWasm() {
